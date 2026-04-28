@@ -1,2 +1,2 @@
 # SysTwin
-Power system simulation programs.
+SysTwin is a simulation suite designed for engineered systems. Currently, our focus is on power systems—the largest man-made infrastructures on the earth. While we are starting here, we plan to scale our technology to encompass all types of engineered systems. The name "SysTwin" represents the fusion of Systems and Digital Twins, reflecting our ultimate goal: creating the definitive digital twins for various engineered systems.
